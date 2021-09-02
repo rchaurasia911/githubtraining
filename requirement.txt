@@ -1,3 +1,6 @@
 this is chat application
 color
 type of actions
+
+dark mode
+videos
