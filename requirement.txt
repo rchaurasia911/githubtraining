@@ -4,3 +4,7 @@ type of actions
 
 dark mode
 videos
+
+
+hello 
+how r u
